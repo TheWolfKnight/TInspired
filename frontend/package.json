@@ -1,0 +1,12 @@
+{
+  "name": "tinspired-ui",
+  "type": "module",
+  "version": "0.0.1",
+  "description": "A port of TInspire made for me, and some people i want to give it to.",
+  "dependencies": {
+  },
+  "devDependencies": {
+  },
+  "author": "Philip Knudsen",
+  "license": "MIT"
+}
