@@ -4,6 +4,8 @@
 pub mod models;
 pub mod misc;
 
+use std::borrow::Borrow;
+
 use models::latex_models::*;
 
 
